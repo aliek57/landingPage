@@ -1,0 +1,117 @@
+{
+    "header": {
+        "logo": "Renata Lemos",
+        "about": "Sobre Mim",
+        "method": "O Método",
+        "results": "Resultados",
+        "contact": "Contato",
+        "button": "Agendar Consulta"
+    },
+    "hero": {
+        "label": "Nutrição Clínica e Comportamental",
+        "title_1": "Emagreça de",
+        "title_highlight": "forma saudável, ",
+        "title_2": "sem dietas restritivas.",
+        "subtitle": "Descubra como o equilíbrio alimentar pode transformar sua rotina, sua saúde e seus resultados de forma definitiva e sem sofrimento.",
+        "cta": "Quero transformar minha rotina"
+    },
+    "about": {
+        "crn": "Nutricionista • CRN 815776",
+        "title": "A nutri contra a dieta restritiva.",
+        "tagline": "Emagrecimento sem viver em guerra com a comida. Nutrição comportamental para mulheres reais.",
+        "p1": "Sou nutricionista e tenho como missão ajudar pessoas a construírem uma relação mais saudável com a alimentação e com o próprio corpo. Ao longo da minha trajetória profissional, percebi que emagrecer vai muito além de seguir uma dieta restritiva — envolve entender hábitos, emoções e a rotina de cada pessoa.",
+        "p2": "Por isso, meu trabalho é focado em um acompanhamento humanizado e individualizado, ajudando cada paciente a encontrar estratégias possíveis para o seu dia a dia.",
+        "p3": "Acredito que o verdadeiro resultado acontece quando conseguimos unir conhecimento nutricional, equilíbrio e constância. Meu objetivo é mostrar que é possível emagrecer de forma saudável, respeitando seu corpo, sem dietas extremas e construindo hábitos que possam ser mantidos ao longo da vida."
+    },
+    "services": {
+        "label": "Atendimentos",
+        "title": "Escolha o formato ideal para você.",
+        "presential": {
+            "title": "Consulta Presencial",
+            "p1": "Se você sente que já tentou diversas dietas, mas não consegue manter os resultados, saiba que você não está sozinha. Muitas pessoas vivem nesse ciclo de restrições, frustração e recomeços constantes. A consulta nutricional foi criada justamente para quebrar esse ciclo.",
+            "p2": "Durante o atendimento, vamos entender profundamente sua rotina, seus hábitos alimentares, sua relação com a comida e os desafios que fazem parte do seu dia a dia. A partir disso, desenvolvemos estratégias práticas e um plano alimentar totalmente personalizado, pensado para funcionar na sua realidade.",
+            "p3": "Aqui você não encontrará dietas radicais ou soluções temporárias. O foco é construir um caminho mais equilibrado, possível e sustentável.",
+            "benefitsTitle": "O que você ganha com a consulta:",
+            "benefits": [
+                "Plano alimentar personalizado, adaptado à sua rotina",
+                "Estratégias práticas para organizar sua alimentação",
+                "Orientação para emagrecer de forma saudável",
+                "Apoio para lidar com fome emocional e compulsão",
+                "Mais consciência alimentar e autonomia nas escolhas",
+                "Mudanças reais de hábitos, sem dietas restritivas",
+                "Acompanhamento profissional contínuo"
+            ],
+            "footer": "Meu objetivo é ajudar você a conquistar um estilo de vida mais saudável, com equilíbrio e sem culpa."
+        },
+        "online": {
+            "title": "Consulta On-line",
+            "p1": "A consulta nutricional online foi pensada para quem deseja cuidar da alimentação e da saúde com orientação profissional, mas precisa de mais praticidade no dia a dia. Mesmo à distância, o atendimento é totalmente personalizado e realizado com a mesma atenção da consulta presencial.",
+            "p2": "Durante o encontro, conversamos sobre sua rotina, seus hábitos alimentares, suas dificuldades e seus objetivos, para que eu possa compreender sua realidade e desenvolver estratégias que realmente funcionem para você.",
+            "p3": "A partir dessa avaliação, elaboro um plano alimentar individualizado, adaptado à sua rotina, preferências alimentares e necessidades específicas. Sem dietas restritivas ou soluções temporárias.",
+            "benefitsTitle": "Benefícios da consulta online:",
+            "benefits": [
+                "Atendimento nutricional personalizado",
+                "Plano alimentar adaptado à sua rotina",
+                "Estratégias práticas para organizar o dia a dia",
+                "Apoio para emagrecimento sustentável",
+                "Orientação para lidar com fome emocional",
+                "Atendimento no conforto da sua casa",
+                "Economia de tempo, sem deslocamento"
+            ],
+            "footer": "Uma forma prática e eficiente de cuidar da sua saúde, com acompanhamento e resultados reais."
+        }
+    },
+    "testimonials": {
+        "label": "Resultados",
+        "title": "Histórias reais, transformações definitivas.",
+        "list": [
+            {
+                "quote": "Pela primeira vez na vida, não sinto que estou de dieta. Emagreci 8kg aprendendo a comer de tudo, sem culpa e sem aquelas restrições malucas que me faziam desistir.",
+                "author": "Mariana S. • Acompanhamento presencial",
+                "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=400&auto=format&fit=crop"
+            },
+            {
+                "quote": "A Renata me ensinou que o problema nunca foi a comida, mas sim como eu lidava com as minhas emoções. Minha energia mudou completamente e os resultados vieram naturalmente.",
+                "author": "Camila T. • Acompanhamento on-line",
+                "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop"
+            },
+            {
+                "quote": "O plano alimentar é tão adaptado à minha rotina corrida que seguir virou algo natural. Nunca me senti tão bem com meu próprio corpo e com a minha saúde.",
+                "author": "Juliana M. • Acompanhamento presencial",
+                "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400&auto=format&fit=crop"
+            }
+        ]
+    },
+    "contact": {
+        "label": "Contato",
+        "title": "Dê o primeiro passo para a sua mudança.",
+        "subtitle": "Preencha o formulário para agendar sua consulta ou tirar dúvidas. Entrarei em contato o mais rápido possível.",
+        "form": {
+            "name": "Como gostaria de ser chamada(o)?",
+            "phone": "Seu telefone",
+            "email": "Seu e-mail",
+            "message": "Como posso te ajudar hoje?",
+            "submit": "Enviar Mensagem",
+            "loading": "Enviando...",
+            "sent": "Enviado",
+            "success": "Mensagem enviada! Retornarei em breve.",
+            "failed": "Erro no envio. Tente de novo mais tarde.",
+            "errors": {
+                "name": "O nome deve ter pelo menos 3 caracteres.",
+                "phone": "Digite um telefone válido (mínimo 10 dígitos).",
+                "email": "Digite um e-mail válido (ex: seu@email.com).",
+                "message": "A mensagem deve ter pelo menos 3 caracteres."
+            }
+        }
+    },
+    "footer": {
+        "contactLabel": "Contato",
+        "email": "renatafabrislemos@gmail.com",
+        "phone": "(45) 99813-7319",
+        "addressLabel": "Atendimento",
+        "address": "Avenida Tenente Camargo, 1635, 1º andar\nCentro de Francisco Beltrão - PR",
+        "socialsLabel": "Acompanhe",
+        "rights": "© {{year}} Renata Lemos. Todos os direitos reservados.",
+        "credits": "Desenvolvido por Keila Prado"
+    }
+}

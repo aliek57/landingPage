@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap');
+
+@theme {
+  --font-title: "Rokkitt", serif;
+  --font-subtitle: "Antic Didone", serif;
+  --font-text: "Libre Franklin", sans-serif;
+  --color-brand-primary: #8B9883; 
+  --color-brand-dark: #4A5741; 
+  --color-brand-light: #D4DCD0;
+  --color-surface-main: #F9FAF9; 
+  --color-surface-sec: #EDF1EC;
+  --color-ink-main: #2A2C2A;
+  --color-ink-muted: #6B7264;
+}
